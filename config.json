@@ -1,0 +1,12 @@
+{
+  "TOKEN": "YOUR_BOT_TOKEN_HERE",
+  "ADMIN_ID": 123456789,
+  "LOG_CHANNEL_ID": null,
+  "FORCE_JOIN_CHANNEL": null,
+  "FORCE_JOIN_GROUP": null,
+  "AUTO_DELETE_MODE": "off",
+  "AUTO_DELETE_TIME": 0,
+  "ANTI_SPAM_SECONDS": 5,
+  "HIDE_MODE_ENABLED": false,
+  "BOT_NAME": "LiveGram Bot"
+}
